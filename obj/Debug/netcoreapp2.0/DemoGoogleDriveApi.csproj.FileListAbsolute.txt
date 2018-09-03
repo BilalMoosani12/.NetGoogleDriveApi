@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\bin\Debug\netcoreapp2.0\DemoGoogleDriveApi.deps.json
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\bin\Debug\netcoreapp2.0\DemoGoogleDriveApi.runtimeconfig.json
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\bin\Debug\netcoreapp2.0\DemoGoogleDriveApi.runtimeconfig.dev.json
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\bin\Debug\netcoreapp2.0\DemoGoogleDriveApi.dll
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\obj\Debug\netcoreapp2.0\DemoGoogleDriveApi.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\obj\Debug\netcoreapp2.0\DemoGoogleDriveApi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\obj\Debug\netcoreapp2.0\DemoGoogleDriveApi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\obj\Debug\netcoreapp2.0\DemoGoogleDriveApi.AssemblyInfo.cs
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\bin\Debug\netcoreapp2.0\DemoGoogleDriveApi.pdb
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\obj\Debug\netcoreapp2.0\DemoGoogleDriveApi.dll
+C:\Users\user\source\repos\DemoGoogleDriveApi\DemoGoogleDriveApi\obj\Debug\netcoreapp2.0\DemoGoogleDriveApi.pdb
